@@ -175,5 +175,6 @@ ir1=ir[z<3]
 print(ir1)
 
 <img width="743" height="317" alt="Screenshot 2026-07-27 204216" src="https://github.com/user-attachments/assets/e48e2396-f1a8-45fe-9c23-3df1eb8baa14" />
+
 # Result
 The given data is read and data cleaning is successfully performed and saved the cleaned data in a file. Outliers detection using IQR and Z score methods are successfully performed.
